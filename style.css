@@ -1,0 +1,35 @@
+body{
+    background-color: lightblue;
+    text-align: center;
+}
+
+h3{
+    font-family: 'Pacifico', cursive;
+    color: darksalmon;
+    font-size: 50px;
+}
+
+h4{
+    font-family: 'Indie Flower', cursive;
+    color: darkseagreen;
+}
+
+h5{
+    font-family: 'Supermercado One', cursive;
+    color: deepskyblue;
+}
+
+b{
+    font-family: 'Supermercado One', cursive;
+    color: darkcyan;
+}
+
+ol{
+    font-family: 'Supermercado One', cursive;
+    color: dodgerblue;
+}
+
+img{
+    height: 200px;
+    width: 150px;
+}
